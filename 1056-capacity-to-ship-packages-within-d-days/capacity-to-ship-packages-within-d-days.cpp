@@ -4,7 +4,7 @@ public:
        int mini=*max_element(weights.begin(),weights.end()),n=weights.size();
        int maxi=accumulate(weights.begin(),weights.end(),0);
        int l=mini,r=maxi,ansi=maxi;
-       while(l<=r){
+       while(l<r){
          int mid=l+(r-l)/2;
          int c=0,ans=0;
          for(int i=0;i<n;i++){
@@ -17,7 +17,7 @@ public:
          if(ans>0)c++;
          if(c<=days){
             ansi=mid;
-            r=mid-1;
+            r=mid;
          }
          else l=mid+1;
        }return ansi;
