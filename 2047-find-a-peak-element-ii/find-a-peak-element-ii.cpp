@@ -1,9 +1,9 @@
 class Solution {
 public:
     int maxi(int &mid,vector<vector<int>>& mat){
-       // int n=mat.size();
+        int n=mat.size();
         int maxi=-1,ind=-1;
-        for(int i=0;i<mat.size();i++){
+        for(int i=0;i<n;i++){
             if(mat[i][mid]>maxi){
                 maxi=mat[i][mid];
                 ind=i;
