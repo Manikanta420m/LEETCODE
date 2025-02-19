@@ -16,16 +16,16 @@ public:
             string fir=cur;
             string sec=cur;
             if(cur.back()=='a'){
-                fir.push_back('b');
-                sec.push_back('c');
+                fir+='b';
+                sec+='c';
             }
             else  if(cur.back()=='b'){
-                fir.push_back('a');
-                sec.push_back('c');
+                fir+='a';
+                sec+='c';
             }
             else  if(cur.back()=='c'){
-                fir.push_back('a');
-                sec.push_back('b');
+                fir+='a';
+                sec+='b';
             }
             q.push(fir);
             q.push(sec);
