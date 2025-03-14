@@ -9,7 +9,7 @@ public:
                 if(check(idx+1,mid,work,jobs,k))return true;
                 work[i]-=jobs[idx];
             }
-            if(work[i]==0)return false;
+             if(work[i]==0)return false; // not clear
          }return false;
     }
 
