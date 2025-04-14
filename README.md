@@ -6,6 +6,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [1656-count-good-triplets](https://github.com/Manikanta420m/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1940-maximum-xor-for-each-query](https://github.com/Manikanta420m/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Manikanta420m/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -38,6 +39,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Manikanta420m/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Manikanta420m/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
