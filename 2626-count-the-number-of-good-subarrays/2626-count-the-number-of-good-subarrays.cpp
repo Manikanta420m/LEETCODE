@@ -1,6 +1,6 @@
 class Solution {
 public:
-     //\U0001f92b\U0001f923
+     //P\U0001f92b\U0001f923L
     long long countGood(vector<int>& nums, int k) {
         long long ans=0;
         int n=nums.size();
