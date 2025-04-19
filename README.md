@@ -13,6 +13,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Manikanta420m/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,4 +112,8 @@
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
