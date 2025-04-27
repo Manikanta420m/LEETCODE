@@ -21,6 +21,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Manikanta420m/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Manikanta420m/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
 |  |
 | ------- |
