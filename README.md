@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1656-count-good-triplets](https://github.com/Manikanta420m/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1940-maximum-xor-for-each-query](https://github.com/Manikanta420m/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
@@ -78,6 +79,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/Manikanta420m/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [2249-count-the-hidden-sequences](https://github.com/Manikanta420m/LEETCODE/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -107,6 +109,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -134,6 +137,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manikanta420m/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
