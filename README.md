@@ -97,6 +97,7 @@
 | [0053-maximum-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sorting
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Manikanta420m/LEETCODE/tree/master/0038-count-and-say) |
+| [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
@@ -155,6 +157,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
