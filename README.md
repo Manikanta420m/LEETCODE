@@ -50,6 +50,7 @@
 | [2998-count-symmetric-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Manikanta420m/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
@@ -90,12 +91,14 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Manikanta420m/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Counting
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -115,6 +118,7 @@
 | [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Manikanta420m/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sorting
 |  |
@@ -129,6 +133,7 @@
 | [0038-count-and-say](https://github.com/Manikanta420m/LEETCODE/tree/master/0038-count-and-say) |
 | [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Manikanta420m/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
