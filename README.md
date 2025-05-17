@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Manikanta420m/LEETCODE/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -131,6 +132,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Manikanta420m/LEETCODE/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Manikanta420m/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
@@ -191,6 +193,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Manikanta420m/LEETCODE/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
