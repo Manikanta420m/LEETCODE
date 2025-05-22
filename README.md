@@ -41,6 +41,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Manikanta420m/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Manikanta420m/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
@@ -120,6 +121,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3321-type-of-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## String
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Manikanta420m/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Manikanta420m/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -240,6 +244,7 @@
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
 | ------- |
