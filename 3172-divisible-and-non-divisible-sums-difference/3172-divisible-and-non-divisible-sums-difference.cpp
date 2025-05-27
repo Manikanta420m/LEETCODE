@@ -1,8 +1,6 @@
 class Solution {
 public:
     int differenceOfSums(int n, int m) {
-      int s=n*(n+1)/2;
-      int div=n/m;
-      return s-(div*(div+1)*m);  
-    }
+ return n*(n+1)/2-m*(n/m)*(n/m+1); 
+     }
 };
