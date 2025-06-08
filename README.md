@@ -333,6 +333,7 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/Manikanta420m/LEETCODE/tree/master/0130-surrounded-regions) |
+| [0386-lexicographical-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/Manikanta420m/LEETCODE/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Manikanta420m/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Manikanta420m/LEETCODE/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -365,4 +366,8 @@
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Manikanta420m/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Manikanta420m/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
