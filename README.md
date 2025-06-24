@@ -35,6 +35,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/Manikanta420m/LEETCODE/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -279,6 +280,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Manikanta420m/LEETCODE/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
