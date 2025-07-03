@@ -65,6 +65,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Manikanta420m/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Manikanta420m/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Manikanta420m/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 ## Math
 |  |
 | ------- |
@@ -331,6 +332,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manikanta420m/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Manikanta420m/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
+| [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 ## Number Theory
 |  |
 | ------- |
