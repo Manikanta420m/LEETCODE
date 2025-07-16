@@ -1,22 +1,12 @@
 class Solution {
 public:
     int maximumLength(vector<int>& nums) {
-        int eve=0,odd=0;
+        int eve=0,odd=0,ans=0,f=nums[0]%2;
         for(auto i:nums){
             if(i&1)odd++;
             else eve++;
+            if(i%2==f){ans++;f^=1;}
         }
-        int ans=max(eve,odd);
-        int f=0,c=0;
-        for(auto i:nums){
-            if(i%2==f){c++;f^=1;}
-        }
-        ans=max(c,ans);
-        c=0,f=1;
-        for(auto i:nums){
-            if(i%2==f){c++;f^=1;}
-        }
-        ans=max(ans,c);
-        return ans;
+        return max(ans,max(eve,odd));
     }
 };
