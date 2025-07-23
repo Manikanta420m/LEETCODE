@@ -80,6 +80,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Manikanta420m/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3936-split-array-by-prime-indices](https://github.com/Manikanta420m/LEETCODE/tree/master/3936-split-array-by-prime-indices) |
 ## Math
@@ -443,6 +444,7 @@
 | [1073-number-of-enclaves](https://github.com/Manikanta420m/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Shortest Path
 |  |
 | ------- |
@@ -482,6 +484,7 @@
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Manikanta420m/LEETCODE/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -497,6 +500,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Manikanta420m/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -509,6 +513,7 @@
 | [0801-is-graph-bipartite](https://github.com/Manikanta420m/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Manikanta420m/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/Manikanta420m/LEETCODE/tree/master/1073-number-of-enclaves) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
