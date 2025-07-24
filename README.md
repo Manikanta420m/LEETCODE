@@ -52,6 +52,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Manikanta420m/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manikanta420m/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -126,6 +127,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Manikanta420m/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Manikanta420m/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Manikanta420m/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -454,6 +456,7 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0113-path-sum-ii) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Manikanta420m/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -481,6 +484,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Manikanta420m/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Manikanta420m/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Manikanta420m/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Manikanta420m/LEETCODE/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
