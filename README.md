@@ -82,6 +82,7 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Manikanta420m/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Manikanta420m/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Manikanta420m/LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3936-split-array-by-prime-indices](https://github.com/Manikanta420m/LEETCODE/tree/master/3936-split-array-by-prime-indices) |
@@ -155,6 +156,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Manikanta420m/LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [3639-zero-array-transformation-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Manikanta420m/LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -335,6 +338,7 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Manikanta420m/LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
