@@ -1,25 +1,26 @@
+#include <vector>
+using namespace std;
+static const int MOD = 1'000'000'007;
+
 class Solution {
 public:
-     int mod = 1e9+7;
-     int dp[301][301];
-    
-     int f(int n, int num, int x ) {
-            if(n < 0 )return 0; 
-            if(n == 0)return 1; 
-            if(pow(num , x) > n) return 0;
-            if(dp[n][num] != -1) return dp[n][num];
-          
-            int temp = pow(num , x) ;
-            
-            int pick = f(n- temp , num + 1 , x);
-            int skip = f(n , num + 1 , x);
-            
-            return dp[n][num] =  (skip % mod + pick % mod) % mod ;
-    }
-    
-    
     int numberOfWays(int n, int x) {
-        memset(dp, -1, sizeof(dp));
-        return f(n, 1, x);
+        // collect powers i^x <= n
+        vector<int> powers;
+        for (int i = 1; ; ++i) {
+            long long p = 1;
+            for (int k = 0; k < x; ++k) p *= i;
+            if (p > n) break;
+            powers.push_back((int)p);
+        }
+
+        vector<long long> dp(n + 1, 0);
+        dp[0] = 1;
+        for (int p : powers) {
+            for (int s = n; s >= p; --s) {
+                dp[s] = (dp[s] + dp[s - p]) % MOD;
+            }
+        }
+        return (int)dp[n];
     }
 };
