@@ -17,6 +17,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Manikanta420m/LEETCODE/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
@@ -107,6 +108,7 @@
 | [0326-power-of-three](https://github.com/Manikanta420m/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manikanta420m/LEETCODE/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Manikanta420m/LEETCODE/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0867-new-21-game) |
@@ -141,6 +143,7 @@
 | [0046-permutations](https://github.com/Manikanta420m/LEETCODE/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/Manikanta420m/LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0679-24-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0679-24-game) |
 | [0800-letter-case-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Manikanta420m/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manikanta420m/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
