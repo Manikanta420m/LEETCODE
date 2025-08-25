@@ -15,6 +15,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/Manikanta420m/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0679-24-game) |
@@ -497,6 +498,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Manikanta420m/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/2479-meeting-rooms-iii) |
@@ -529,6 +531,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Manikanta420m/LEETCODE/tree/master/0130-surrounded-regions) |
+| [0498-diagonal-traverse](https://github.com/Manikanta420m/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/Manikanta420m/LEETCODE/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Manikanta420m/LEETCODE/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Manikanta420m/LEETCODE/tree/master/1036-rotting-oranges) |
