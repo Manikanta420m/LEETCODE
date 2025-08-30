@@ -24,23 +24,11 @@ public:
         }
 
         long long  move=0;
-        if(j+1<m && grid[i][j+1]==0)
-        {
-            move+=fn(grid,i,j+1,dp,n,m,1);
-        }
-        else if(j+1<m && grid[i][j+1]==1)
-        {
-            move+=fn(grid,i,j+1,dp,n,m,1);
-        }
         
-        if(i+1<n && grid[i+1][j]==0)
-        {
+            move+=fn(grid,i,j+1,dp,n,m,1);
+        
             move+=fn(grid,i+1,j,dp,n,m,0);
-        } 
-        else if(i+1<n && grid[i+1][j]==1)
-        {
-            move+=fn(grid,i+1,j,dp,n,m,0);
-        }
+            
         return dp[i][j][dir]=move%mod;
     }
     int uniquePaths(vector<vector<int>>& grid) 
