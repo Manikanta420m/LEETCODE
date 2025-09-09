@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Manikanta420m/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Manikanta420m/LEETCODE/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -234,6 +235,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Manikanta420m/LEETCODE/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
@@ -305,6 +307,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -370,6 +373,7 @@
 | [0093-restore-ip-addresses](https://github.com/Manikanta420m/LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/Manikanta420m/LEETCODE/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
 | [0800-letter-case-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Manikanta420m/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -602,6 +606,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Manikanta420m/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Manikanta420m/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -663,6 +668,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Manikanta420m/LEETCODE/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Manikanta420m/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
