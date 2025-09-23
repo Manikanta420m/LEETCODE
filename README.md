@@ -398,6 +398,7 @@
 | [0127-word-ladder](https://github.com/Manikanta420m/LEETCODE/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
+| [0165-compare-version-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0800-letter-case-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/Manikanta420m/LEETCODE/tree/master/1006-vowel-spellchecker) |
@@ -513,6 +514,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Manikanta420m/LEETCODE/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
