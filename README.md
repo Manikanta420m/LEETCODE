@@ -130,6 +130,7 @@
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Manikanta420m/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Manikanta420m/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Manikanta420m/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manikanta420m/LEETCODE/tree/master/0342-power-of-four) |
@@ -246,6 +247,7 @@
 | [0127-word-ladder](https://github.com/Manikanta420m/LEETCODE/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Manikanta420m/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0560-subarray-sum-equals-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
@@ -399,6 +401,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Manikanta420m/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0800-letter-case-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/Manikanta420m/LEETCODE/tree/master/1006-vowel-spellchecker) |
