@@ -11,6 +11,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Manikanta420m/LEETCODE/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Manikanta420m/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Manikanta420m/LEETCODE/tree/master/0135-candy) |
@@ -330,6 +331,7 @@
 | [0053-maximum-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0120-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
