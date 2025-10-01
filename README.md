@@ -154,6 +154,7 @@
 | [1448-maximum-69-number](https://github.com/Manikanta420m/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Manikanta420m/LEETCODE/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Manikanta420m/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/Manikanta420m/LEETCODE/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Manikanta420m/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -593,6 +594,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Manikanta420m/LEETCODE/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/Manikanta420m/LEETCODE/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Manikanta420m/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
