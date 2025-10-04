@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manikanta420m/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Manikanta420m/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Manikanta420m/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Manikanta420m/LEETCODE/tree/master/0046-permutations) |
@@ -531,6 +532,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manikanta420m/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Manikanta420m/LEETCODE/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Manikanta420m/LEETCODE/tree/master/0611-valid-triangle-number) |
@@ -543,6 +545,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manikanta420m/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Manikanta420m/LEETCODE/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/Manikanta420m/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
