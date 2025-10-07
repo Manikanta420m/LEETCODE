@@ -13,7 +13,7 @@ public:
             } else {
                 res[i] = -1;
                 if (lakeDay.count(lake)) {
-                    auto it = dry.upper_bound(lakeDay[lake]);
+                    auto it = dry.lower_bound(lakeDay[lake]);
                     if (it == dry.end()) return {};
                     res[*it] = lake;
                     dry.erase(it);
