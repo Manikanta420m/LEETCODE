@@ -139,6 +139,7 @@
 | [3797-design-spreadsheet](https://github.com/Manikanta420m/LEETCODE/tree/master/3797-design-spreadsheet) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3827-implement-router](https://github.com/Manikanta420m/LEETCODE/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Manikanta420m/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3936-split-array-by-prime-indices](https://github.com/Manikanta420m/LEETCODE/tree/master/3936-split-array-by-prime-indices) |
 ## Math
@@ -190,6 +191,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Manikanta420m/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/Manikanta420m/LEETCODE/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Manikanta420m/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3936-split-array-by-prime-indices](https://github.com/Manikanta420m/LEETCODE/tree/master/3936-split-array-by-prime-indices) |
 ## Backtracking
 |  |
@@ -225,6 +227,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Manikanta420m/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
 |  |
 | ------- |
@@ -234,6 +237,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Manikanta420m/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Manikanta420m/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Manikanta420m/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
@@ -390,6 +394,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/Manikanta420m/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Manikanta420m/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Manikanta420m/LEETCODE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Manikanta420m/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sorting
 |  |
 | ------- |
@@ -828,4 +833,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Manikanta420m/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
