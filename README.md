@@ -128,6 +128,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Manikanta420m/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Manikanta420m/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -360,6 +361,7 @@
 | [3618-find-the-original-typed-string-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Manikanta420m/LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -441,6 +443,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Manikanta420m/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Manikanta420m/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
@@ -525,6 +528,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Manikanta420m/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Manikanta420m/LEETCODE/tree/master/3827-implement-router) |
@@ -575,6 +579,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Manikanta420m/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Two Pointers
