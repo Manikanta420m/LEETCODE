@@ -242,6 +242,7 @@
 | [0342-power-of-four](https://github.com/Manikanta420m/LEETCODE/tree/master/0342-power-of-four) |
 | [0800-letter-case-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/Manikanta420m/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Manikanta420m/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manikanta420m/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -424,6 +425,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikanta420m/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Manikanta420m/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Manikanta420m/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Manikanta420m/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -808,6 +810,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Manikanta420m/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Manikanta420m/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
