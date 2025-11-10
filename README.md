@@ -158,6 +158,7 @@
 | [3797-design-spreadsheet](https://github.com/Manikanta420m/LEETCODE/tree/master/3797-design-spreadsheet) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3827-implement-router](https://github.com/Manikanta420m/LEETCODE/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Manikanta420m/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Manikanta420m/LEETCODE/tree/master/3863-power-grid-maintenance) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
@@ -357,6 +358,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Manikanta420m/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Manikanta420m/LEETCODE/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Manikanta420m/LEETCODE/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Manikanta420m/LEETCODE/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manikanta420m/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Manikanta420m/LEETCODE/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -686,6 +688,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Manikanta420m/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Manikanta420m/LEETCODE/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
@@ -884,6 +887,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Manikanta420m/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Manikanta420m/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Trie
 |  |
 | ------- |
@@ -927,6 +931,7 @@
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikanta420m/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search Tree
 |  |
 | ------- |
