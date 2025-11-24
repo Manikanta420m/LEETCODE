@@ -1,6 +1,6 @@
 class Solution {
 public:
-    const long long M=1e9+5;
+    const long long M=5;
     vector<bool> prefixesDivBy5(vector<int>& nums) {
         long long num=0;
         vector<bool>ans;
