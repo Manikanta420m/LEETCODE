@@ -187,6 +187,7 @@
 | [0830-largest-triangle-area](https://github.com/Manikanta420m/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Manikanta420m/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manikanta420m/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Manikanta420m/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -329,6 +330,7 @@
 | [0900-reordered-power-of-2](https://github.com/Manikanta420m/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Manikanta420m/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Manikanta420m/LEETCODE/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Manikanta420m/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manikanta420m/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
