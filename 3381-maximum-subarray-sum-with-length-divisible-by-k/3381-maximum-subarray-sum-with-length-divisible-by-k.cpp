@@ -1,6 +1,7 @@
 class Solution {
 public:
     long long maxSubarraySum(vector<int>& nums, int k) {
+       /*
         long long ans=LLONG_MIN;
         vector<long long>prefSum(nums.size()+1,0);
         for(int i=1;i<=nums.size();i++){
@@ -17,6 +18,19 @@ public:
                 }
                 ans=max(ans,max(c1,c2));cout<<ans<<" ";
             }
+        }
+        return ans;
+      */
+        long long ans=LLONG_MIN,pref=0;
+        vector<long long>prefSum(k,LLONG_MAX);
+        prefSum[0]=0;
+        for(int i=0;i<nums.size();i++){
+            int mod=((i+1)%k);
+            pref+=nums[i];
+            if(prefSum[mod]!=LLONG_MAX){
+                ans=max(ans,pref-prefSum[mod]);
+            }
+            prefSum[mod]=min(prefSum[mod],pref);
         }
         return ans;
     }
