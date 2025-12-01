@@ -1,22 +1,15 @@
 class Solution {
 public:
-    long long maxRunTime(int n, vector<int>& batteries) {
-        long long ans=0;
-        sort(batteries.rbegin(),batteries.rend());
-        long long sm=accumulate(batteries.begin()+n,batteries.end(),0LL);
-        int m=batteries.size();
-        for(int i=n-1;i>=1;i--){
-           int num=n-i;
-           int diff=batteries[i-1]-batteries[i];
-           int req=diff*num;
-           if(sm>=req){
-            batteries[i]=batteries[i-1];
-            sm-=req;
-           }
-           else{
-            return batteries[i]+(sm/num);
-           }
+    long long maxRunTime(int n, vector<int>& arr) {
+        sort(arr.begin(), arr.end());
+        long long total = accumulate(arr.begin(), arr.end(), 0LL);
+
+        for (int i = arr.size() - 1; i >= 0; i--) {
+            if (arr[i] <= total / n) break;
+            total -= arr[i];
+            n--;
         }
-        return batteries[0]+(sm/n);
+
+        return total / n;
     }
 };
