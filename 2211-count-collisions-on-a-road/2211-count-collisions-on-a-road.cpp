@@ -10,11 +10,8 @@ public:
         int col=0;
     
         for( ; l<=r; l++){
-            while(D[l]=='R'){
-                l++;
-                col++;
-            }
-            if (D[l]=='L') col++;
+         
+            if (D[l]=='L' or D[l]=='R') col++;
         }
         return col;      
     }
