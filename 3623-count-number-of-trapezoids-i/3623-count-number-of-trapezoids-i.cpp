@@ -6,16 +6,18 @@ public:
         freq.reserve(n);
         for(auto& p: points)
             freq[p[1]]++;
-        long long sum=0, c2=0;
+        long long sum=0, c2=0,ans=0;
         for(auto& [y, f]: freq){
             if (f<=1) continue;
             const long long c=f*(f-1LL)/2LL;
-            sum+=c;
-            c2+=c*c;
+            ans+=(sum*c)%mod;
+            ans%=mod;
+            sum+=c%mod;
+            sum%=mod;
         }
-        long long ans=sum*sum-c2;
-        ans/=2;
-        ans%=mod;
+        // long long ans=sum*sum-c2;
+        // ans/=2;
+        // ans%=mod;
         return ans;
     }
 };
