@@ -1,7 +1,16 @@
 class Solution {
 public:
     int lastRemaining(int n) {
-        if(n==1)return 1;
-        return 2*(n/2 +1 - lastRemaining(n/2));
+        int step=1,head=1,siz=n;
+        bool left=true;
+        while(siz>1){
+           if(left or siz&1){
+            head+=step;
+           }
+           step*=2;
+           left=!left;
+           siz/=2;
+        }
+        return head;
     }
 };
