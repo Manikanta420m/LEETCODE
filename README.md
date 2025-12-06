@@ -574,6 +574,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Manikanta420m/LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Manikanta420m/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2288-apply-discount-to-prices](https://github.com/Manikanta420m/LEETCODE/tree/master/2288-apply-discount-to-prices) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Manikanta420m/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2429-design-a-food-rating-system) |
