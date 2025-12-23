@@ -79,6 +79,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/2048-build-array-from-permutation) |
+| [2054-two-best-non-overlapping-events](https://github.com/Manikanta420m/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Manikanta420m/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -504,6 +505,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Manikanta420m/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Manikanta420m/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2054-two-best-non-overlapping-events](https://github.com/Manikanta420m/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Manikanta420m/LEETCODE/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Manikanta420m/LEETCODE/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Manikanta420m/LEETCODE/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -544,6 +546,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manikanta420m/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/Manikanta420m/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Manikanta420m/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Manikanta420m/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -659,6 +662,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Manikanta420m/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/Manikanta420m/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Manikanta420m/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Manikanta420m/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -862,6 +866,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Manikanta420m/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manikanta420m/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2023-design-movie-rental-system) |
+| [2054-two-best-non-overlapping-events](https://github.com/Manikanta420m/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Manikanta420m/LEETCODE/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2429-design-a-food-rating-system) |
