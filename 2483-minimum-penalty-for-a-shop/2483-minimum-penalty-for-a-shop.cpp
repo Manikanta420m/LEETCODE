@@ -1,18 +1,17 @@
 class Solution {
 public:
     int bestClosingTime(string customers) {
-        int y=count(customers.begin(),customers.end(),'Y');
-        int n=count(customers.begin(),customers.end(),'N');
-        int cy=0,cn=0,maxi=y,ans=0;
-        for(int i=0;i<customers.size();i++){
-            if(customers[i]=='Y')cy++;
-            else cn++;
-            int res=(y-cy)+cn;
-            if(res<maxi){
-                maxi=res;
-                ans=i+1;
+        int n=customers.size();
+        int p=0;
+        int minp=0,mini=0;
+        for(int i=0;i<n;i++){
+            int y=customers[i]=='Y'?1:-1;
+            p-=y;
+            if(minp>p){
+              minp=p;
+              mini=i+1;
             }
         }
-        return ans;
+        return mini;
     }
 };
