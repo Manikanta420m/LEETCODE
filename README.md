@@ -282,6 +282,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0679-24-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Manikanta420m/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manikanta420m/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -292,6 +293,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Manikanta420m/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Manikanta420m/LEETCODE/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Manikanta420m/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -365,6 +367,7 @@
 | [0391-perfect-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0560-subarray-sum-equals-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Manikanta420m/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Manikanta420m/LEETCODE/tree/master/0940-fruit-into-baskets) |
@@ -596,6 +599,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Manikanta420m/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0466-count-the-repetitions](https://github.com/Manikanta420m/LEETCODE/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Manikanta420m/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
