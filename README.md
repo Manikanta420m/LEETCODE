@@ -365,6 +365,7 @@
 | [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Manikanta420m/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0391-perfect-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0391-perfect-rectangle) |
+| [0433-minimum-genetic-mutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
@@ -597,6 +598,7 @@
 | [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Manikanta420m/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
+| [0433-minimum-genetic-mutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0466-count-the-repetitions](https://github.com/Manikanta420m/LEETCODE/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0756-pyramid-transition-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
@@ -990,6 +992,7 @@
 | [0210-course-schedule-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manikanta420m/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0733-flood-fill](https://github.com/Manikanta420m/LEETCODE/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Manikanta420m/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Manikanta420m/LEETCODE/tree/master/0801-is-graph-bipartite) |
