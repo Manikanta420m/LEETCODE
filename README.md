@@ -499,6 +499,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0087-scramble-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0120-triangle) |
@@ -604,6 +605,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manikanta420m/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Manikanta420m/LEETCODE/tree/master/0038-count-and-say) |
+| [0087-scramble-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Manikanta420m/LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/Manikanta420m/LEETCODE/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
