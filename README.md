@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/Manikanta420m/LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Manikanta420m/LEETCODE/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -501,6 +502,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Manikanta420m/LEETCODE/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
@@ -931,6 +933,7 @@
 | [0036-valid-sudoku](https://github.com/Manikanta420m/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Manikanta420m/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Manikanta420m/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manikanta420m/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1067,6 +1070,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikanta420m/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Manikanta420m/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1117,6 +1121,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikanta420m/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
