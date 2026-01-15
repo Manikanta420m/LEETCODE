@@ -14,7 +14,7 @@ public:
                 tH=1;
             }
             if(i<m1 and V[i]-V[i-1]==1)tV++;
-            else if(i<m){
+            else if(i<m1){
                 mxv=max(mxv,tV);
                 tV=1;
             }
