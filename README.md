@@ -20,6 +20,7 @@
 | [0130-surrounded-regions](https://github.com/Manikanta420m/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Manikanta420m/LEETCODE/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
+| [0260-single-number-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0391-perfect-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0391-perfect-rectangle) |
@@ -312,6 +313,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Manikanta420m/LEETCODE/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Manikanta420m/LEETCODE/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0800-letter-case-permutation) |
