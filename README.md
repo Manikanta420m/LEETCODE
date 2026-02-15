@@ -231,6 +231,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Manikanta420m/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Manikanta420m/LEETCODE/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Manikanta420m/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Manikanta420m/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Manikanta420m/LEETCODE/tree/master/0326-power-of-three) |
@@ -325,6 +326,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Manikanta420m/LEETCODE/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Manikanta420m/LEETCODE/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Manikanta420m/LEETCODE/tree/master/0342-power-of-four) |
@@ -662,6 +664,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manikanta420m/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Manikanta420m/LEETCODE/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/Manikanta420m/LEETCODE/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Manikanta420m/LEETCODE/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Manikanta420m/LEETCODE/tree/master/0093-restore-ip-addresses) |
@@ -938,6 +941,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Manikanta420m/LEETCODE/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Manikanta420m/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Manikanta420m/LEETCODE/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/2048-build-array-from-permutation) |
