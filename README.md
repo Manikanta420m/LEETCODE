@@ -327,6 +327,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Manikanta420m/LEETCODE/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Manikanta420m/LEETCODE/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Manikanta420m/LEETCODE/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Manikanta420m/LEETCODE/tree/master/0342-power-of-four) |
@@ -787,6 +788,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Manikanta420m/LEETCODE/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
