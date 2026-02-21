@@ -240,6 +240,7 @@
 | [0390-elimination-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0679-24-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manikanta420m/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Manikanta420m/LEETCODE/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Manikanta420m/LEETCODE/tree/master/0830-largest-triangle-area) |
@@ -335,6 +336,7 @@
 | [0401-binary-watch](https://github.com/Manikanta420m/LEETCODE/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Manikanta420m/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manikanta420m/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0800-letter-case-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Manikanta420m/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
