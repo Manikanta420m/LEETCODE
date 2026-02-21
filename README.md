@@ -1062,6 +1062,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0110-balanced-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Manikanta420m/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1094,6 +1095,7 @@
 | [0113-path-sum-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/Manikanta420m/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manikanta420m/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Manikanta420m/LEETCODE/tree/master/0733-flood-fill) |
@@ -1147,6 +1149,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0110-balanced-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Manikanta420m/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
