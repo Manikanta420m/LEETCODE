@@ -562,6 +562,7 @@
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Manikanta420m/LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Manikanta420m/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -773,6 +774,7 @@
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Manikanta420m/LEETCODE/tree/master/3797-design-spreadsheet) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manikanta420m/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Manikanta420m/LEETCODE/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
@@ -832,6 +834,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
