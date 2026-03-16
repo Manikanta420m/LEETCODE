@@ -1153,6 +1153,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1073-number-of-enclaves](https://github.com/Manikanta420m/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Manikanta420m/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
@@ -1185,6 +1186,7 @@
 | [1036-rotting-oranges](https://github.com/Manikanta420m/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Manikanta420m/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Manikanta420m/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Manikanta420m/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1317,6 +1319,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manikanta420m/LEETCODE/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manikanta420m/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1327,6 +1330,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manikanta420m/LEETCODE/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
