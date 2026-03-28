@@ -138,6 +138,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Manikanta420m/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manikanta420m/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Manikanta420m/LEETCODE/tree/master/2529-range-product-queries-of-powers) |
+| [2573-find-the-string-with-lcp](https://github.com/Manikanta420m/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manikanta420m/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Manikanta420m/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -627,6 +628,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Manikanta420m/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2573-find-the-string-with-lcp](https://github.com/Manikanta420m/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Manikanta420m/LEETCODE/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -766,6 +768,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Manikanta420m/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Manikanta420m/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Manikanta420m/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [2887-sort-vowels-in-a-string](https://github.com/Manikanta420m/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -962,6 +965,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Manikanta420m/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Manikanta420m/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Manikanta420m/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manikanta420m/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Manikanta420m/LEETCODE/tree/master/2689-rearranging-fruits) |
@@ -1108,6 +1112,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Manikanta420m/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/Manikanta420m/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/Manikanta420m/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manikanta420m/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1362,6 +1367,7 @@
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2573-find-the-string-with-lcp](https://github.com/Manikanta420m/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manikanta420m/LEETCODE/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
