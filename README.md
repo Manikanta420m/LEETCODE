@@ -784,6 +784,7 @@
 | [3396-valid-word](https://github.com/Manikanta420m/LEETCODE/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Manikanta420m/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Manikanta420m/LEETCODE/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Manikanta420m/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/Manikanta420m/LEETCODE/tree/master/3606-coupon-code-validator) |
@@ -983,6 +984,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Manikanta420m/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manikanta420m/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Manikanta420m/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Manikanta420m/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manikanta420m/LEETCODE/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1377,4 +1379,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manikanta420m/LEETCODE/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
