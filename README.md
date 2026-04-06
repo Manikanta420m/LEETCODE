@@ -43,6 +43,7 @@
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Manikanta420m/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Manikanta420m/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Manikanta420m/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Manikanta420m/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
@@ -444,6 +445,7 @@
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Manikanta420m/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Manikanta420m/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Manikanta420m/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Manikanta420m/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manikanta420m/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -1024,6 +1026,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Manikanta420m/LEETCODE/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Manikanta420m/LEETCODE/tree/master/0498-diagonal-traverse) |
+| [0874-walking-robot-simulation](https://github.com/Manikanta420m/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Manikanta420m/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Manikanta420m/LEETCODE/tree/master/1642-water-bottles) |
