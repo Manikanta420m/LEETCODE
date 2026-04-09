@@ -219,6 +219,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Manikanta420m/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Manikanta420m/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Manikanta420m/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Manikanta420m/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
@@ -864,6 +865,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
