@@ -147,6 +147,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manikanta420m/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Manikanta420m/LEETCODE/tree/master/2529-range-product-queries-of-powers) |
 | [2573-find-the-string-with-lcp](https://github.com/Manikanta420m/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/Manikanta420m/LEETCODE/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manikanta420m/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Manikanta420m/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -491,6 +492,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Manikanta420m/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2615-sum-of-distances](https://github.com/Manikanta420m/LEETCODE/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Manikanta420m/LEETCODE/tree/master/2689-rearranging-fruits) |
@@ -574,6 +576,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Manikanta420m/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/Manikanta420m/LEETCODE/tree/master/2529-range-product-queries-of-powers) |
+| [2615-sum-of-distances](https://github.com/Manikanta420m/LEETCODE/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manikanta420m/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Manikanta420m/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/2906-construct-product-matrix) |
