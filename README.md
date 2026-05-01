@@ -25,6 +25,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0391-perfect-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/Manikanta420m/LEETCODE/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manikanta420m/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
@@ -272,6 +273,7 @@
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/Manikanta420m/LEETCODE/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manikanta420m/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
@@ -626,6 +628,7 @@
 | [0221-maximal-square](https://github.com/Manikanta420m/LEETCODE/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Manikanta420m/LEETCODE/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0466-count-the-repetitions](https://github.com/Manikanta420m/LEETCODE/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0474-ones-and-zeroes) |
