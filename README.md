@@ -23,6 +23,7 @@
 | [0221-maximal-square](https://github.com/Manikanta420m/LEETCODE/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/Manikanta420m/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0391-perfect-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/Manikanta420m/LEETCODE/tree/master/0396-rotate-function) |
@@ -907,6 +908,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Manikanta420m/LEETCODE/tree/master/0190-reverse-bits) |
+| [0307-range-sum-query-mutable](https://github.com/Manikanta420m/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0761-special-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
@@ -918,10 +920,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Manikanta420m/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Manikanta420m/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [1622-fancy-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3454-separate-squares-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3454-separate-squares-ii) |
@@ -1355,6 +1359,7 @@
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Manikanta420m/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [1622-fancy-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2023-design-movie-rental-system) |
