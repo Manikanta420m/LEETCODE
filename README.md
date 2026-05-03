@@ -777,6 +777,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Manikanta420m/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Manikanta420m/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1461,5 +1462,6 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
