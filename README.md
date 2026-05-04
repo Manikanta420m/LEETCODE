@@ -53,6 +53,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manikanta420m/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1006-vowel-spellchecker](https://github.com/Manikanta420m/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Manikanta420m/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -474,6 +475,7 @@
 | [0940-fruit-into-baskets](https://github.com/Manikanta420m/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manikanta420m/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1006-vowel-spellchecker](https://github.com/Manikanta420m/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -552,6 +554,7 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Manikanta420m/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Manikanta420m/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -958,6 +961,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Manikanta420m/LEETCODE/tree/master/0940-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Manikanta420m/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Manikanta420m/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Manikanta420m/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
