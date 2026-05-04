@@ -9,6 +9,7 @@
 | [0037-sudoku-solver](https://github.com/Manikanta420m/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Manikanta420m/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Manikanta420m/LEETCODE/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Manikanta420m/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Manikanta420m/LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0073-set-matrix-zeroes) |
@@ -266,6 +267,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Manikanta420m/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Manikanta420m/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Manikanta420m/LEETCODE/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Manikanta420m/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1160,6 +1162,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Manikanta420m/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Manikanta420m/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Manikanta420m/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Manikanta420m/LEETCODE/tree/master/0130-surrounded-regions) |
