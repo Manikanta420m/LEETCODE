@@ -1338,6 +1338,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/Manikanta420m/LEETCODE/tree/master/0901-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikanta420m/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Manikanta420m/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1361,6 +1362,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Manikanta420m/LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [0901-online-stock-span](https://github.com/Manikanta420m/LEETCODE/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2023-design-movie-rental-system) |
@@ -1397,6 +1399,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/Manikanta420m/LEETCODE/tree/master/0901-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikanta420m/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1465,4 +1468,8 @@
 | ------- |
 | [0796-rotate-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Manikanta420m/LEETCODE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
