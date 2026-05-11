@@ -467,6 +467,7 @@
 | [0037-sudoku-solver](https://github.com/Manikanta420m/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Manikanta420m/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Manikanta420m/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Manikanta420m/LEETCODE/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
@@ -776,6 +777,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manikanta420m/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Manikanta420m/LEETCODE/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Manikanta420m/LEETCODE/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Manikanta420m/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Manikanta420m/LEETCODE/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Manikanta420m/LEETCODE/tree/master/0093-restore-ip-addresses) |
@@ -969,6 +971,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Manikanta420m/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0867-new-21-game) |
