@@ -1003,6 +1003,7 @@
 | [0011-container-with-most-water](https://github.com/Manikanta420m/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Manikanta420m/LEETCODE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Manikanta420m/LEETCODE/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0165-compare-version-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Manikanta420m/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Manikanta420m/LEETCODE/tree/master/0696-count-binary-substrings) |
@@ -1404,6 +1405,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Manikanta420m/LEETCODE/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manikanta420m/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manikanta420m/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
