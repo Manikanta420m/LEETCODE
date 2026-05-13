@@ -104,6 +104,7 @@ The goal of this repository is to:<br>
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Manikanta420m/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Manikanta420m/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Manikanta420m/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Manikanta420m/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Manikanta420m/LEETCODE/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -509,6 +510,7 @@ The goal of this repository is to:<br>
 | [1510-find-lucky-integer-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manikanta420m/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Manikanta420m/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Manikanta420m/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/Manikanta420m/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Manikanta420m/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Manikanta420m/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -605,6 +607,7 @@ The goal of this repository is to:<br>
 | [0560-subarray-sum-equals-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manikanta420m/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Manikanta420m/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Manikanta420m/LEETCODE/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Manikanta420m/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
