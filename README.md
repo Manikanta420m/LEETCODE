@@ -1,4 +1,16 @@
 # Leet
+🚀 About This Repository
+<br>
+<br>
+This repository contains my solutions to LeetCode problems ranging from Easy to Hard difficulty levels.<br>
+The goal of this repository is to:<br>
+<br>
+Strengthen problem-solving skills<br>
+Master Data Structures & Algorithms<br>
+Prepare for coding interviews<br>
+Improve competitive programming techniques<br>
+Learn optimized approaches and clean coding practices<br>
+<br>
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
