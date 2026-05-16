@@ -34,6 +34,7 @@ The goal of this repository is to:<br>
 | [0135-candy](https://github.com/Manikanta420m/LEETCODE/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manikanta420m/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0221-maximal-square](https://github.com/Manikanta420m/LEETCODE/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
@@ -911,6 +912,7 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manikanta420m/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Manikanta420m/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
