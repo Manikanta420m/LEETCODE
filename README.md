@@ -309,6 +309,7 @@ The goal of this repository is to:<br>
 | [0390-elimination-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/Manikanta420m/LEETCODE/tree/master/0396-rotate-function) |
+| [0400-nth-digit](https://github.com/Manikanta420m/LEETCODE/tree/master/0400-nth-digit) |
 | [0679-24-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manikanta420m/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Manikanta420m/LEETCODE/tree/master/0788-rotated-digits) |
@@ -928,6 +929,7 @@ The goal of this repository is to:<br>
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manikanta420m/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0400-nth-digit](https://github.com/Manikanta420m/LEETCODE/tree/master/0400-nth-digit) |
 | [0611-valid-triangle-number](https://github.com/Manikanta420m/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manikanta420m/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
