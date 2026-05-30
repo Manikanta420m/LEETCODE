@@ -204,6 +204,7 @@ The goal of this repository is to:<br>
 | [3093-longest-common-suffix-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3161-block-placement-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3161-block-placement-queries) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Manikanta420m/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Manikanta420m/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/Manikanta420m/LEETCODE/tree/master/3194-find-words-containing-character) |
@@ -964,6 +965,7 @@ The goal of this repository is to:<br>
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manikanta420m/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3161-block-placement-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Manikanta420m/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3453-separate-squares-i) |
@@ -996,12 +998,14 @@ The goal of this repository is to:<br>
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Manikanta420m/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Manikanta420m/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [1622-fancy-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
