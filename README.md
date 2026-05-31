@@ -137,6 +137,7 @@ The goal of this repository is to:<br>
 | [2054-two-best-non-overlapping-events](https://github.com/Manikanta420m/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Manikanta420m/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2126-destroying-asteroids](https://github.com/Manikanta420m/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Manikanta420m/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Manikanta420m/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -778,6 +779,7 @@ The goal of this repository is to:<br>
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Manikanta420m/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Manikanta420m/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [2126-destroying-asteroids](https://github.com/Manikanta420m/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Manikanta420m/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Manikanta420m/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1107,6 +1109,7 @@ The goal of this repository is to:<br>
 | [1917-maximum-average-pass-ratio](https://github.com/Manikanta420m/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Manikanta420m/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Manikanta420m/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manikanta420m/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Manikanta420m/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Manikanta420m/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
