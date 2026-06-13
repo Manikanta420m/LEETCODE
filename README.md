@@ -303,6 +303,7 @@ The goal of this repository is to:<br>
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3827-implement-router](https://github.com/Manikanta420m/LEETCODE/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/Manikanta420m/LEETCODE/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Manikanta420m/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Manikanta420m/LEETCODE/tree/master/3863-power-grid-maintenance) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
@@ -944,6 +945,7 @@ The goal of this repository is to:<br>
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Manikanta420m/LEETCODE/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/Manikanta420m/LEETCODE/tree/master/3838-weighted-word-mapping) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manikanta420m/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Manikanta420m/LEETCODE/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -1238,6 +1240,7 @@ The goal of this repository is to:<br>
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Manikanta420m/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/Manikanta420m/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Graph
 |  |
 | ------- |
