@@ -1102,6 +1102,7 @@ The goal of this repository is to:<br>
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Manikanta420m/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Manikanta420m/LEETCODE/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Manikanta420m/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Manikanta420m/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Manikanta420m/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1487,6 +1488,7 @@ The goal of this repository is to:<br>
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Manikanta420m/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Manikanta420m/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Manikanta420m/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/Manikanta420m/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Manikanta420m/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1524,6 +1526,7 @@ The goal of this repository is to:<br>
 | [0061-rotate-list](https://github.com/Manikanta420m/LEETCODE/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manikanta420m/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Manikanta420m/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manikanta420m/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Hash Function
