@@ -288,6 +288,7 @@ The goal of this repository is to:<br>
 | [3719-longest-balanced-subarray-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Manikanta420m/LEETCODE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -610,6 +611,7 @@ The goal of this repository is to:<br>
 | [3714-longest-balanced-substring-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -689,6 +691,7 @@ The goal of this repository is to:<br>
 | [3714-longest-balanced-substring-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Manikanta420m/LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Manikanta420m/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -1033,6 +1036,7 @@ The goal of this repository is to:<br>
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Binary Indexed Tree
 |  |
@@ -1051,6 +1055,7 @@ The goal of this repository is to:<br>
 | [3691-maximum-total-subarray-value-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Manikanta420m/LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
@@ -1058,6 +1063,7 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
