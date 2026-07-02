@@ -227,6 +227,7 @@ The goal of this repository is to:<br>
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Manikanta420m/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1304,6 +1305,7 @@ The goal of this repository is to:<br>
 | [2429-design-a-food-rating-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/2479-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Manikanta420m/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -1359,6 +1361,7 @@ The goal of this repository is to:<br>
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manikanta420m/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Manikanta420m/LEETCODE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Manikanta420m/LEETCODE/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1376,6 +1379,7 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manikanta420m/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1483,6 +1487,7 @@ The goal of this repository is to:<br>
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Manikanta420m/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Manikanta420m/LEETCODE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1631,6 +1636,7 @@ The goal of this repository is to:<br>
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manikanta420m/LEETCODE/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manikanta420m/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Rolling Hash
