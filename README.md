@@ -265,6 +265,7 @@ The goal of this repository is to:<br>
 | [3616-make-array-elements-equal-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3620-network-recovery-pathways](https://github.com/Manikanta420m/LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
@@ -780,6 +781,7 @@ The goal of this repository is to:<br>
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Manikanta420m/LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/Manikanta420m/LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Manikanta420m/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1026,6 +1028,7 @@ The goal of this repository is to:<br>
 | [3488-closest-equal-element-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manikanta420m/LEETCODE/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-network-recovery-pathways](https://github.com/Manikanta420m/LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1311,6 +1314,7 @@ The goal of this repository is to:<br>
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/Manikanta420m/LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
@@ -1380,6 +1384,7 @@ The goal of this repository is to:<br>
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Manikanta420m/LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manikanta420m/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1411,6 +1416,7 @@ The goal of this repository is to:<br>
 | [0210-course-schedule-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Manikanta420m/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Manikanta420m/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3620-network-recovery-pathways](https://github.com/Manikanta420m/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
 | ------- |
@@ -1638,6 +1644,7 @@ The goal of this repository is to:<br>
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manikanta420m/LEETCODE/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/Manikanta420m/LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manikanta420m/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Rolling Hash
 |  |
