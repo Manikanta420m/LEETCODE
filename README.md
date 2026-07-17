@@ -235,6 +235,7 @@ The goal of this repository is to:<br>
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Manikanta420m/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Manikanta420m/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -394,6 +395,7 @@ The goal of this repository is to:<br>
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Manikanta420m/LEETCODE/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Manikanta420m/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -498,6 +500,7 @@ The goal of this repository is to:<br>
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Manikanta420m/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3548-find-the-count-of-good-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manikanta420m/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Manikanta420m/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
@@ -610,6 +613,7 @@ The goal of this repository is to:<br>
 | [3120-count-the-number-of-special-characters-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manikanta420m/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manikanta420m/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Manikanta420m/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -665,6 +669,7 @@ The goal of this repository is to:<br>
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2833-furthest-point-from-origin](https://github.com/Manikanta420m/LEETCODE/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manikanta420m/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manikanta420m/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Manikanta420m/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Manikanta420m/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -703,6 +708,7 @@ The goal of this repository is to:<br>
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Manikanta420m/LEETCODE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/3225-maximum-score-from-grid-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Manikanta420m/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Manikanta420m/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1048,6 +1054,7 @@ The goal of this repository is to:<br>
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Manikanta420m/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3454-separate-squares-ii) |
@@ -1253,6 +1260,7 @@ The goal of this repository is to:<br>
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Manikanta420m/LEETCODE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Manikanta420m/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Manikanta420m/LEETCODE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manikanta420m/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
