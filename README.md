@@ -932,6 +932,7 @@ The goal of this repository is to:<br>
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/Manikanta420m/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Manikanta420m/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manikanta420m/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Manikanta420m/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Manikanta420m/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Manikanta420m/LEETCODE/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -1198,6 +1199,7 @@ The goal of this repository is to:<br>
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Manikanta420m/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manikanta420m/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manikanta420m/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Manikanta420m/LEETCODE/tree/master/1448-maximum-69-number) |
@@ -1584,6 +1586,7 @@ The goal of this repository is to:<br>
 | [0032-longest-valid-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0901-online-stock-span](https://github.com/Manikanta420m/LEETCODE/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manikanta420m/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikanta420m/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Manikanta420m/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1652,6 +1655,7 @@ The goal of this repository is to:<br>
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0901-online-stock-span](https://github.com/Manikanta420m/LEETCODE/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manikanta420m/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikanta420m/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
