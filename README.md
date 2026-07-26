@@ -233,6 +233,7 @@ The goal of this repository is to:<br>
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/Manikanta420m/LEETCODE/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -1260,6 +1261,7 @@ The goal of this repository is to:<br>
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Manikanta420m/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Manikanta420m/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/Manikanta420m/LEETCODE/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Manikanta420m/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manikanta420m/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
