@@ -338,6 +338,7 @@ The goal of this repository is to:<br>
 | ------- |
 | [0048-rotate-image](https://github.com/Manikanta420m/LEETCODE/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Manikanta420m/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Manikanta420m/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Manikanta420m/LEETCODE/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Manikanta420m/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
@@ -513,6 +514,7 @@ The goal of this repository is to:<br>
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Manikanta420m/LEETCODE/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Manikanta420m/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -754,6 +756,7 @@ The goal of this repository is to:<br>
 | [0010-regular-expression-matching](https://github.com/Manikanta420m/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Manikanta420m/LEETCODE/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Manikanta420m/LEETCODE/tree/master/0091-decode-ways) |
