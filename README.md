@@ -337,6 +337,7 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Manikanta420m/LEETCODE/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Manikanta420m/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Manikanta420m/LEETCODE/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Manikanta420m/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1038,6 +1039,7 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Manikanta420m/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0060-permutation-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Manikanta420m/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Manikanta420m/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manikanta420m/LEETCODE/tree/master/0342-power-of-four) |
