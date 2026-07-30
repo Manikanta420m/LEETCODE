@@ -397,6 +397,7 @@ The goal of this repository is to:<br>
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Manikanta420m/LEETCODE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manikanta420m/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/2998-count-symmetric-integers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Manikanta420m/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Manikanta420m/LEETCODE/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Manikanta420m/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1004,6 +1005,7 @@ The goal of this repository is to:<br>
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Manikanta420m/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Manikanta420m/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1270,6 +1272,7 @@ The goal of this repository is to:<br>
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Manikanta420m/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Manikanta420m/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Manikanta420m/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
