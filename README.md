@@ -345,6 +345,7 @@ The goal of this repository is to:<br>
 | [0231-power-of-two](https://github.com/Manikanta420m/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Manikanta420m/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manikanta420m/LEETCODE/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0390-elimination-game) |
@@ -775,6 +776,7 @@ The goal of this repository is to:<br>
 | [0174-dungeon-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Manikanta420m/LEETCODE/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0343-integer-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Manikanta420m/LEETCODE/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
