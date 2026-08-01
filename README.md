@@ -49,6 +49,7 @@ The goal of this repository is to:<br>
 | [0416-partition-equal-subset-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manikanta420m/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Manikanta420m/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Manikanta420m/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
@@ -352,6 +353,7 @@ The goal of this repository is to:<br>
 | [0391-perfect-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/Manikanta420m/LEETCODE/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/Manikanta420m/LEETCODE/tree/master/0400-nth-digit) |
+| [0486-predict-the-winner](https://github.com/Manikanta420m/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manikanta420m/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -784,6 +786,7 @@ The goal of this repository is to:<br>
 | [0416-partition-equal-subset-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0466-count-the-repetitions](https://github.com/Manikanta420m/LEETCODE/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Manikanta420m/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Manikanta420m/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Manikanta420m/LEETCODE/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Manikanta420m/LEETCODE/tree/master/0799-champagne-tower) |
@@ -1062,6 +1065,7 @@ The goal of this repository is to:<br>
 | [0326-power-of-three](https://github.com/Manikanta420m/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manikanta420m/LEETCODE/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/Manikanta420m/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1728,6 +1732,7 @@ The goal of this repository is to:<br>
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Manikanta420m/LEETCODE/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
