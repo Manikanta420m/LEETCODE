@@ -82,6 +82,7 @@ The goal of this repository is to:<br>
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Manikanta420m/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/Manikanta420m/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Manikanta420m/LEETCODE/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Manikanta420m/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manikanta420m/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -371,6 +372,7 @@ The goal of this repository is to:<br>
 | [0900-reordered-power-of-2](https://github.com/Manikanta420m/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Manikanta420m/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Manikanta420m/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Manikanta420m/LEETCODE/tree/master/1390-four-divisors) |
@@ -724,6 +726,7 @@ The goal of this repository is to:<br>
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+| [1140-stone-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manikanta420m/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Manikanta420m/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -806,6 +809,7 @@ The goal of this repository is to:<br>
 | [0934-bitwise-ors-of-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Manikanta420m/LEETCODE/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manikanta420m/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/Manikanta420m/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Manikanta420m/LEETCODE/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -1748,6 +1752,7 @@ The goal of this repository is to:<br>
 | ------- |
 | [0486-predict-the-winner](https://github.com/Manikanta420m/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
 | [3462-vowels-game-in-a-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
@@ -1817,9 +1822,11 @@ The goal of this repository is to:<br>
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
 <!---LeetCode Topics End-->
