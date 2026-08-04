@@ -120,6 +120,7 @@ The goal of this repository is to:<br>
 | [1656-count-good-triplets](https://github.com/Manikanta420m/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Manikanta420m/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Manikanta420m/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Manikanta420m/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Manikanta420m/LEETCODE/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -387,6 +388,7 @@ The goal of this repository is to:<br>
 | [1636-number-of-substrings-with-only-1s](https://github.com/Manikanta420m/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Manikanta420m/LEETCODE/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Manikanta420m/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/Manikanta420m/LEETCODE/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -891,6 +893,7 @@ The goal of this repository is to:<br>
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manikanta420m/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Manikanta420m/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Manikanta420m/LEETCODE/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Manikanta420m/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Manikanta420m/LEETCODE/tree/master/1840-maximum-building-height) |
@@ -1266,6 +1269,7 @@ The goal of this repository is to:<br>
 | [1612-avoid-flood-in-the-city](https://github.com/Manikanta420m/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Manikanta420m/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Manikanta420m/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Manikanta420m/LEETCODE/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1409,6 +1413,7 @@ The goal of this repository is to:<br>
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manikanta420m/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/Manikanta420m/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manikanta420m/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2023-design-movie-rental-system) |
@@ -1744,6 +1749,7 @@ The goal of this repository is to:<br>
 | [0486-predict-the-winner](https://github.com/Manikanta420m/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/1406-stone-game-iii) |
+| [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
 | [3462-vowels-game-in-a-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
@@ -1808,4 +1814,12 @@ The goal of this repository is to:<br>
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Manikanta420m/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
 <!---LeetCode Topics End-->
