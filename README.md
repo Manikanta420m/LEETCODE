@@ -426,6 +426,7 @@ The goal of this repository is to:<br>
 | [3336-water-bottles-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Manikanta420m/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Manikanta420m/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Manikanta420m/LEETCODE/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
@@ -482,6 +483,7 @@ The goal of this repository is to:<br>
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manikanta420m/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manikanta420m/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Manikanta420m/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1044,6 +1046,7 @@ The goal of this repository is to:<br>
 | [3194-find-words-containing-character](https://github.com/Manikanta420m/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manikanta420m/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Manikanta420m/LEETCODE/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Manikanta420m/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1313,6 +1316,7 @@ The goal of this repository is to:<br>
 | [3282-reach-end-of-array-with-max-score](https://github.com/Manikanta420m/LEETCODE/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Manikanta420m/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manikanta420m/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Manikanta420m/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -1340,6 +1344,7 @@ The goal of this repository is to:<br>
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Manikanta420m/LEETCODE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Manikanta420m/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Manikanta420m/LEETCODE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manikanta420m/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
