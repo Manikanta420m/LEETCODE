@@ -1866,4 +1866,5 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Manikanta420m/LEETCODE/tree/master/0176-second-highest-salary) |
+| [0184-department-highest-salary](https://github.com/Manikanta420m/LEETCODE/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
