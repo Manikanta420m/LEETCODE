@@ -165,6 +165,7 @@ The goal of this repository is to:<br>
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Manikanta420m/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Manikanta420m/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Manikanta420m/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Manikanta420m/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Manikanta420m/LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1024,6 +1025,7 @@ The goal of this repository is to:<br>
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manikanta420m/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Manikanta420m/LEETCODE/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Manikanta420m/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Manikanta420m/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Manikanta420m/LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Manikanta420m/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -1179,6 +1181,7 @@ The goal of this repository is to:<br>
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Manikanta420m/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [1622-fancy-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Manikanta420m/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3454-separate-squares-ii) |
@@ -1199,6 +1202,7 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2023-design-movie-rental-system) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Manikanta420m/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
