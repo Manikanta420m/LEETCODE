@@ -228,6 +228,7 @@ The goal of this repository is to:<br>
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Manikanta420m/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Manikanta420m/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Manikanta420m/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Manikanta420m/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Manikanta420m/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
@@ -1424,6 +1425,7 @@ The goal of this repository is to:<br>
 | [2479-meeting-rooms-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/2479-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manikanta420m/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-water-bottles-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Manikanta420m/LEETCODE/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Manikanta420m/LEETCODE/tree/master/3433-count-mentions-per-user) |
