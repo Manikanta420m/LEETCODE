@@ -406,6 +406,7 @@ The goal of this repository is to:<br>
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Manikanta420m/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/Manikanta420m/LEETCODE/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/Manikanta420m/LEETCODE/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Manikanta420m/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/Manikanta420m/LEETCODE/tree/master/2029-stone-game-ix) |
@@ -1038,6 +1039,7 @@ The goal of this repository is to:<br>
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Manikanta420m/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-jump-game-vii](https://github.com/Manikanta420m/LEETCODE/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/Manikanta420m/LEETCODE/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Manikanta420m/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Manikanta420m/LEETCODE/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -1326,6 +1328,7 @@ The goal of this repository is to:<br>
 | [1834-minimum-number-of-people-to-teach](https://github.com/Manikanta420m/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manikanta420m/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manikanta420m/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/Manikanta420m/LEETCODE/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/Manikanta420m/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Manikanta420m/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -1809,6 +1812,7 @@ The goal of this repository is to:<br>
 | [1510-stone-game-iv](https://github.com/Manikanta420m/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Manikanta420m/LEETCODE/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
+| [1927-sum-game](https://github.com/Manikanta420m/LEETCODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Manikanta420m/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
