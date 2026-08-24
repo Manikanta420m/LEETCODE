@@ -138,6 +138,7 @@ The goal of this repository is to:<br>
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Manikanta420m/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Manikanta420m/LEETCODE/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/Manikanta420m/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Manikanta420m/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Manikanta420m/LEETCODE/tree/master/1895-largest-magic-square) |
@@ -405,6 +406,7 @@ The goal of this repository is to:<br>
 | [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Manikanta420m/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/Manikanta420m/LEETCODE/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Manikanta420m/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/Manikanta420m/LEETCODE/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -762,6 +764,7 @@ The goal of this repository is to:<br>
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Manikanta420m/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Manikanta420m/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Manikanta420m/LEETCODE/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Manikanta420m/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Manikanta420m/LEETCODE/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Manikanta420m/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -860,6 +863,7 @@ The goal of this repository is to:<br>
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/Manikanta420m/LEETCODE/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Manikanta420m/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Manikanta420m/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Manikanta420m/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/Manikanta420m/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
@@ -1812,6 +1816,7 @@ The goal of this repository is to:<br>
 | [1510-stone-game-iv](https://github.com/Manikanta420m/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Manikanta420m/LEETCODE/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
+| [1872-stone-game-viii](https://github.com/Manikanta420m/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Manikanta420m/LEETCODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Manikanta420m/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
@@ -1885,6 +1890,7 @@ The goal of this repository is to:<br>
 | [1140-stone-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Manikanta420m/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
+| [1872-stone-game-viii](https://github.com/Manikanta420m/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Manikanta420m/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1892,6 +1898,7 @@ The goal of this repository is to:<br>
 | [1140-stone-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Manikanta420m/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
+| [1872-stone-game-viii](https://github.com/Manikanta420m/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Manikanta420m/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
