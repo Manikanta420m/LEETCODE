@@ -58,6 +58,7 @@ The goal of this repository is to:<br>
 | [0679-24-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Manikanta420m/LEETCODE/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0721-accounts-merge](https://github.com/Manikanta420m/LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Manikanta420m/LEETCODE/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manikanta420m/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Manikanta420m/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
@@ -619,6 +620,7 @@ The goal of this repository is to:<br>
 | [0433-minimum-genetic-mutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0721-accounts-merge](https://github.com/Manikanta420m/LEETCODE/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/0840-magic-squares-in-grid) |
@@ -924,6 +926,7 @@ The goal of this repository is to:<br>
 | [0594-longest-harmonious-subsequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Manikanta420m/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/Manikanta420m/LEETCODE/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Manikanta420m/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/Manikanta420m/LEETCODE/tree/master/0900-reordered-power-of-2) |
@@ -1020,6 +1023,7 @@ The goal of this repository is to:<br>
 | [0474-ones-and-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Manikanta420m/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Manikanta420m/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0721-accounts-merge](https://github.com/Manikanta420m/LEETCODE/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0796-rotate-string) |
@@ -1624,6 +1628,7 @@ The goal of this repository is to:<br>
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manikanta420m/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
+| [0721-accounts-merge](https://github.com/Manikanta420m/LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Manikanta420m/LEETCODE/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Manikanta420m/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Manikanta420m/LEETCODE/tree/master/0801-is-graph-bipartite) |
@@ -1665,6 +1670,7 @@ The goal of this repository is to:<br>
 | [0407-trapping-rain-water-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manikanta420m/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
+| [0721-accounts-merge](https://github.com/Manikanta420m/LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Manikanta420m/LEETCODE/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Manikanta420m/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Manikanta420m/LEETCODE/tree/master/0801-is-graph-bipartite) |
@@ -1865,6 +1871,7 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0721-accounts-merge](https://github.com/Manikanta420m/LEETCODE/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
