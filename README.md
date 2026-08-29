@@ -72,6 +72,7 @@ The goal of this repository is to:<br>
 | [0940-fruit-into-baskets](https://github.com/Manikanta420m/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Manikanta420m/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/Manikanta420m/LEETCODE/tree/master/0945-snakes-and-ladders) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Manikanta420m/LEETCODE/tree/master/0952-largest-component-size-by-common-factor) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manikanta420m/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -386,6 +387,7 @@ The goal of this repository is to:<br>
 | [0867-new-21-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/Manikanta420m/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Manikanta420m/LEETCODE/tree/master/0952-largest-component-size-by-common-factor) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1140-stone-game-ii) |
@@ -632,6 +634,7 @@ The goal of this repository is to:<br>
 | [0874-walking-robot-simulation](https://github.com/Manikanta420m/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Manikanta420m/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Manikanta420m/LEETCODE/tree/master/0940-fruit-into-baskets) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Manikanta420m/LEETCODE/tree/master/0952-largest-component-size-by-common-factor) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manikanta420m/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -1409,6 +1412,7 @@ The goal of this repository is to:<br>
 ## Number Theory
 |  |
 | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Manikanta420m/LEETCODE/tree/master/0952-largest-component-size-by-common-factor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1888,6 +1892,7 @@ The goal of this repository is to:<br>
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0721-accounts-merge](https://github.com/Manikanta420m/LEETCODE/tree/master/0721-accounts-merge) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Manikanta420m/LEETCODE/tree/master/0952-largest-component-size-by-common-factor) |
 | [1202-smallest-string-with-swaps](https://github.com/Manikanta420m/LEETCODE/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1951,4 +1956,8 @@ The goal of this repository is to:<br>
 | [0176-second-highest-salary](https://github.com/Manikanta420m/LEETCODE/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Manikanta420m/LEETCODE/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/Manikanta420m/LEETCODE/tree/master/0184-department-highest-salary) |
+## Prime Factorization
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Manikanta420m/LEETCODE/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
