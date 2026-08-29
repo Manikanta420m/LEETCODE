@@ -124,6 +124,7 @@ The goal of this repository is to:<br>
 | [1612-avoid-flood-in-the-city](https://github.com/Manikanta420m/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikanta420m/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
+| [1631-path-with-minimum-effort](https://github.com/Manikanta420m/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Manikanta420m/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Manikanta420m/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -1171,6 +1172,7 @@ The goal of this repository is to:<br>
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Manikanta420m/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/Manikanta420m/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Manikanta420m/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Manikanta420m/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1506,6 +1508,7 @@ The goal of this repository is to:<br>
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manikanta420m/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/Manikanta420m/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [1631-path-with-minimum-effort](https://github.com/Manikanta420m/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manikanta420m/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
@@ -1560,6 +1563,7 @@ The goal of this repository is to:<br>
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikanta420m/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
+| [1631-path-with-minimum-effort](https://github.com/Manikanta420m/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Manikanta420m/LEETCODE/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/Manikanta420m/LEETCODE/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1666,6 +1670,7 @@ The goal of this repository is to:<br>
 | [1382-balance-a-binary-search-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Manikanta420m/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Manikanta420m/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1710,6 +1715,7 @@ The goal of this repository is to:<br>
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Manikanta420m/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Manikanta420m/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Manikanta420m/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manikanta420m/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1905,6 +1911,7 @@ The goal of this repository is to:<br>
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Manikanta420m/LEETCODE/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1631-path-with-minimum-effort](https://github.com/Manikanta420m/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Manikanta420m/LEETCODE/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manikanta420m/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1967,4 +1974,8 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/Manikanta420m/LEETCODE/tree/master/0952-largest-component-size-by-common-factor) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Manikanta420m/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
