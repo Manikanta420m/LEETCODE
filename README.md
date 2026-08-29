@@ -1861,6 +1861,7 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Manikanta420m/LEETCODE/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Manikanta420m/LEETCODE/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manikanta420m/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Manikanta420m/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -1884,6 +1885,7 @@ The goal of this repository is to:<br>
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Manikanta420m/LEETCODE/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Manikanta420m/LEETCODE/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manikanta420m/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
