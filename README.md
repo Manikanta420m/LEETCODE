@@ -93,6 +93,7 @@ The goal of this repository is to:<br>
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manikanta420m/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Manikanta420m/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/Manikanta420m/LEETCODE/tree/master/1293-three-consecutive-odds) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Manikanta420m/LEETCODE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Manikanta420m/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -1557,6 +1558,7 @@ The goal of this repository is to:<br>
 | [1036-rotting-oranges](https://github.com/Manikanta420m/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Manikanta420m/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Manikanta420m/LEETCODE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Manikanta420m/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1714,6 +1716,7 @@ The goal of this repository is to:<br>
 | [1091-shortest-path-in-binary-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Manikanta420m/LEETCODE/tree/master/1202-smallest-string-with-swaps) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Manikanta420m/LEETCODE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/Manikanta420m/LEETCODE/tree/master/1345-jump-game-iv) |
