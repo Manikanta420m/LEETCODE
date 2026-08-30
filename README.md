@@ -1508,6 +1508,7 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
+| [0743-network-delay-time](https://github.com/Manikanta420m/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Manikanta420m/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/Manikanta420m/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1604,6 +1605,7 @@ The goal of this repository is to:<br>
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Manikanta420m/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Manikanta420m/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1661,6 +1663,7 @@ The goal of this repository is to:<br>
 | [0417-pacific-atlantic-water-flow](https://github.com/Manikanta420m/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0721-accounts-merge](https://github.com/Manikanta420m/LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Manikanta420m/LEETCODE/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Manikanta420m/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Manikanta420m/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/Manikanta420m/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Manikanta420m/LEETCODE/tree/master/0801-is-graph-bipartite) |
@@ -1706,6 +1709,7 @@ The goal of this repository is to:<br>
 | [0433-minimum-genetic-mutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/Manikanta420m/LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Manikanta420m/LEETCODE/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Manikanta420m/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Manikanta420m/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/Manikanta420m/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Manikanta420m/LEETCODE/tree/master/0801-is-graph-bipartite) |
@@ -1891,6 +1895,7 @@ The goal of this repository is to:<br>
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Manikanta420m/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Manikanta420m/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Manikanta420m/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -1988,5 +1993,6 @@ The goal of this repository is to:<br>
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Manikanta420m/LEETCODE/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Manikanta420m/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
