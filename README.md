@@ -1817,6 +1817,7 @@ The goal of this repository is to:<br>
 | [0061-rotate-list](https://github.com/Manikanta420m/LEETCODE/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manikanta420m/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Manikanta420m/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Manikanta420m/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Manikanta420m/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manikanta420m/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
