@@ -364,6 +364,7 @@ The goal of this repository is to:<br>
 | [3876-construct-uniform-parity-array-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
+| [3904-smallest-stable-index-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 | [3936-split-array-by-prime-indices](https://github.com/Manikanta420m/LEETCODE/tree/master/3936-split-array-by-prime-indices) |
 ## Math
 |  |
@@ -833,6 +834,7 @@ The goal of this repository is to:<br>
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Manikanta420m/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3903-smallest-stable-index-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
