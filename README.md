@@ -2002,6 +2002,7 @@ The goal of this repository is to:<br>
 | [0176-second-highest-salary](https://github.com/Manikanta420m/LEETCODE/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Manikanta420m/LEETCODE/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/Manikanta420m/LEETCODE/tree/master/0184-department-highest-salary) |
+| [1193-monthly-transactions-i](https://github.com/Manikanta420m/LEETCODE/tree/master/1193-monthly-transactions-i) |
 ## Prime Factorization
 |  |
 | ------- |
