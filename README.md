@@ -873,6 +873,7 @@ The goal of this repository is to:<br>
 | [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
 | [0877-stone-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Manikanta420m/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Manikanta420m/LEETCODE/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1140-stone-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1140-stone-game-ii) |
@@ -1059,6 +1060,7 @@ The goal of this repository is to:<br>
 | [0796-rotate-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
+| [0940-distinct-subsequences-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Manikanta420m/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
