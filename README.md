@@ -65,6 +65,7 @@ The goal of this repository is to:<br>
 | [0794-swim-in-rising-water](https://github.com/Manikanta420m/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Manikanta420m/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/Manikanta420m/LEETCODE/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/Manikanta420m/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0877-stone-game) |
@@ -1577,6 +1578,7 @@ The goal of this repository is to:<br>
 | [0498-diagonal-traverse](https://github.com/Manikanta420m/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/Manikanta420m/LEETCODE/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Manikanta420m/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Manikanta420m/LEETCODE/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/Manikanta420m/LEETCODE/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Manikanta420m/LEETCODE/tree/master/1036-rotting-oranges) |
