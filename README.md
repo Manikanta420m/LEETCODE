@@ -395,6 +395,7 @@ The goal of this repository is to:<br>
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Manikanta420m/LEETCODE/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Manikanta420m/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Manikanta420m/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0877-stone-game) |
@@ -1886,6 +1887,7 @@ The goal of this repository is to:<br>
 | ------- |
 | [0391-perfect-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0830-largest-triangle-area](https://github.com/Manikanta420m/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Manikanta420m/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Manikanta420m/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Manikanta420m/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
