@@ -130,6 +130,7 @@ The goal of this repository is to:<br>
 | [1631-path-with-minimum-effort](https://github.com/Manikanta420m/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Manikanta420m/LEETCODE/tree/master/1656-count-good-triplets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Manikanta420m/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Manikanta420m/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1686-stone-game-vi](https://github.com/Manikanta420m/LEETCODE/tree/master/1686-stone-game-vi) |
@@ -679,6 +680,7 @@ The goal of this repository is to:<br>
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Manikanta420m/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manikanta420m/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Manikanta420m/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Manikanta420m/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/Manikanta420m/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Manikanta420m/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -803,6 +805,7 @@ The goal of this repository is to:<br>
 | [1140-stone-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manikanta420m/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Manikanta420m/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Manikanta420m/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Manikanta420m/LEETCODE/tree/master/1871-jump-game-vii) |
@@ -1212,6 +1215,7 @@ The goal of this repository is to:<br>
 | [1612-avoid-flood-in-the-city](https://github.com/Manikanta420m/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/Manikanta420m/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Manikanta420m/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Manikanta420m/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1321,6 +1325,7 @@ The goal of this repository is to:<br>
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manikanta420m/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Manikanta420m/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/Manikanta420m/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/Manikanta420m/LEETCODE/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Manikanta420m/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
