@@ -527,6 +527,7 @@ The goal of this repository is to:<br>
 | [0679-24-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0800-letter-case-permutation) |
+| [1096-brace-expansion-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Manikanta420m/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manikanta420m/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manikanta420m/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -665,6 +666,7 @@ The goal of this repository is to:<br>
 | [0992-subarrays-with-k-different-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1006-vowel-spellchecker](https://github.com/Manikanta420m/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/Manikanta420m/LEETCODE/tree/master/1202-smallest-string-with-swaps) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Manikanta420m/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -978,6 +980,7 @@ The goal of this repository is to:<br>
 | [0900-reordered-power-of-2](https://github.com/Manikanta420m/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
+| [1096-brace-expansion-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Manikanta420m/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/Manikanta420m/LEETCODE/tree/master/1202-smallest-string-with-swaps) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manikanta420m/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1089,6 +1092,7 @@ The goal of this repository is to:<br>
 | [1006-vowel-spellchecker](https://github.com/Manikanta420m/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Manikanta420m/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manikanta420m/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/Manikanta420m/LEETCODE/tree/master/1202-smallest-string-with-swaps) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Manikanta420m/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Manikanta420m/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -1770,6 +1774,7 @@ The goal of this repository is to:<br>
 | [1036-rotting-oranges](https://github.com/Manikanta420m/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Manikanta420m/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Manikanta420m/LEETCODE/tree/master/1202-smallest-string-with-swaps) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Manikanta420m/LEETCODE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -1827,6 +1832,7 @@ The goal of this repository is to:<br>
 | [0085-maximal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0901-online-stock-span](https://github.com/Manikanta420m/LEETCODE/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manikanta420m/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikanta420m/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Manikanta420m/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
