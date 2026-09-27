@@ -1095,6 +1095,7 @@ The goal of this repository is to:<br>
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Manikanta420m/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manikanta420m/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/Manikanta420m/LEETCODE/tree/master/1202-smallest-string-with-swaps) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Manikanta420m/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Manikanta420m/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -1836,6 +1837,7 @@ The goal of this repository is to:<br>
 | [0901-online-stock-span](https://github.com/Manikanta420m/LEETCODE/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manikanta420m/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikanta420m/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Manikanta420m/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -2062,4 +2064,8 @@ The goal of this repository is to:<br>
 | ------- |
 | [0743-network-delay-time](https://github.com/Manikanta420m/LEETCODE/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Manikanta420m/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
