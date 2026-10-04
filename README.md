@@ -886,6 +886,7 @@ The goal of this repository is to:<br>
 | [0466-count-the-repetitions](https://github.com/Manikanta420m/LEETCODE/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Manikanta420m/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Manikanta420m/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Manikanta420m/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Manikanta420m/LEETCODE/tree/master/0788-rotated-digits) |
@@ -1084,6 +1085,7 @@ The goal of this repository is to:<br>
 | [0433-minimum-genetic-mutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0466-count-the-repetitions](https://github.com/Manikanta420m/LEETCODE/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Manikanta420m/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Manikanta420m/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Manikanta420m/LEETCODE/tree/master/0721-accounts-merge) |
@@ -1403,6 +1405,7 @@ The goal of this repository is to:<br>
 | [0011-container-with-most-water](https://github.com/Manikanta420m/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Manikanta420m/LEETCODE/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/Manikanta420m/LEETCODE/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Manikanta420m/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/Manikanta420m/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1844,6 +1847,7 @@ The goal of this repository is to:<br>
 | [0020-valid-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Manikanta420m/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/Manikanta420m/LEETCODE/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manikanta420m/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1096-brace-expansion-ii) |
@@ -2082,6 +2086,7 @@ The goal of this repository is to:<br>
 | [0020-valid-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Manikanta420m/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
