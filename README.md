@@ -526,6 +526,7 @@ The goal of this repository is to:<br>
 | [0093-restore-ip-addresses](https://github.com/Manikanta420m/LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Manikanta420m/LEETCODE/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Manikanta420m/LEETCODE/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
@@ -1082,6 +1083,7 @@ The goal of this repository is to:<br>
 | [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Manikanta420m/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Manikanta420m/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
+| [0301-remove-invalid-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0466-count-the-repetitions](https://github.com/Manikanta420m/LEETCODE/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/Manikanta420m/LEETCODE/tree/master/0474-ones-and-zeroes) |
@@ -1777,6 +1779,7 @@ The goal of this repository is to:<br>
 | [0127-word-ladder](https://github.com/Manikanta420m/LEETCODE/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Manikanta420m/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manikanta420m/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Manikanta420m/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
