@@ -120,6 +120,7 @@ The goal of this repository is to:<br>
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Manikanta420m/LEETCODE/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Manikanta420m/LEETCODE/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manikanta420m/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Manikanta420m/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manikanta420m/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
@@ -431,6 +432,7 @@ The goal of this repository is to:<br>
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Manikanta420m/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Manikanta420m/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1563-stone-game-v](https://github.com/Manikanta420m/LEETCODE/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manikanta420m/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Manikanta420m/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -598,6 +600,7 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Manikanta420m/LEETCODE/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manikanta420m/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Manikanta420m/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -925,6 +928,7 @@ The goal of this repository is to:<br>
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Manikanta420m/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Manikanta420m/LEETCODE/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manikanta420m/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Manikanta420m/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1304,6 +1308,7 @@ The goal of this repository is to:<br>
 | [0307-range-sum-query-mutable](https://github.com/Manikanta420m/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0761-special-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manikanta420m/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -1727,6 +1732,7 @@ The goal of this repository is to:<br>
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manikanta420m/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Manikanta420m/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Manikanta420m/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1748,6 +1754,7 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Manikanta420m/LEETCODE/tree/master/0139-word-break) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manikanta420m/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Manikanta420m/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Manikanta420m/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -1861,6 +1868,7 @@ The goal of this repository is to:<br>
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manikanta420m/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Manikanta420m/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Manikanta420m/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union Find
@@ -1970,6 +1978,7 @@ The goal of this repository is to:<br>
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manikanta420m/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Geometry
 |  |
 | ------- |
@@ -2046,6 +2055,7 @@ The goal of this repository is to:<br>
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manikanta420m/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Manikanta420m/LEETCODE/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1631-path-with-minimum-effort](https://github.com/Manikanta420m/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Manikanta420m/LEETCODE/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -2133,4 +2143,8 @@ The goal of this repository is to:<br>
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Manikanta420m/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manikanta420m/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Manikanta420m/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manikanta420m/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
