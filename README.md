@@ -170,6 +170,7 @@ The goal of this repository is to:<br>
 | [2054-two-best-non-overlapping-events](https://github.com/Manikanta420m/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Manikanta420m/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Manikanta420m/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1027,6 +1028,7 @@ The goal of this repository is to:<br>
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Manikanta420m/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Manikanta420m/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Manikanta420m/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Manikanta420m/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Manikanta420m/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1263,6 +1265,7 @@ The goal of this repository is to:<br>
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Manikanta420m/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Manikanta420m/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Manikanta420m/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Manikanta420m/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Manikanta420m/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Manikanta420m/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
