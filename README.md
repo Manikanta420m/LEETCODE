@@ -378,6 +378,7 @@ The goal of this repository is to:<br>
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3904-smallest-stable-index-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
@@ -525,6 +526,7 @@ The goal of this repository is to:<br>
 | [3871-count-commas-in-range-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 | [3936-split-array-by-prime-indices](https://github.com/Manikanta420m/LEETCODE/tree/master/3936-split-array-by-prime-indices) |
 ## Backtracking
 |  |
@@ -650,6 +652,7 @@ The goal of this repository is to:<br>
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Manikanta420m/LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3886-sum-of-sortable-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Manikanta420m/LEETCODE/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
@@ -1083,6 +1086,7 @@ The goal of this repository is to:<br>
 | [3731-find-missing-elements](https://github.com/Manikanta420m/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Manikanta420m/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
