@@ -1230,6 +1230,7 @@ The goal of this repository is to:<br>
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Manikanta420m/LEETCODE/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/Manikanta420m/LEETCODE/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Manikanta420m/LEETCODE/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manikanta420m/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Manikanta420m/LEETCODE/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
