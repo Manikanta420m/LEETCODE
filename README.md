@@ -383,6 +383,7 @@ The goal of this repository is to:<br>
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3904-smallest-stable-index-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 | [3936-split-array-by-prime-indices](https://github.com/Manikanta420m/LEETCODE/tree/master/3936-split-array-by-prime-indices) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
