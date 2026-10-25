@@ -91,6 +91,7 @@ The goal of this repository is to:<br>
 | [1200-minimum-absolute-difference](https://github.com/Manikanta420m/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/Manikanta420m/LEETCODE/tree/master/1202-smallest-string-with-swaps) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1254-number-of-closed-islands](https://github.com/Manikanta420m/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manikanta420m/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Manikanta420m/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/Manikanta420m/LEETCODE/tree/master/1293-three-consecutive-odds) |
@@ -1678,6 +1679,7 @@ The goal of this repository is to:<br>
 | [1036-rotting-oranges](https://github.com/Manikanta420m/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Manikanta420m/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Manikanta420m/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Manikanta420m/LEETCODE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Manikanta420m/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1796,6 +1798,7 @@ The goal of this repository is to:<br>
 | [1073-number-of-enclaves](https://github.com/Manikanta420m/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Manikanta420m/LEETCODE/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/Manikanta420m/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1847,6 +1850,7 @@ The goal of this repository is to:<br>
 | [1096-brace-expansion-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Manikanta420m/LEETCODE/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/Manikanta420m/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Manikanta420m/LEETCODE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -2065,6 +2069,7 @@ The goal of this repository is to:<br>
 | [0952-largest-component-size-by-common-factor](https://github.com/Manikanta420m/LEETCODE/tree/master/0952-largest-component-size-by-common-factor) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Manikanta420m/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1202-smallest-string-with-swaps](https://github.com/Manikanta420m/LEETCODE/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/Manikanta420m/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manikanta420m/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
