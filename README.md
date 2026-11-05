@@ -107,6 +107,7 @@ The goal of this repository is to:<br>
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manikanta420m/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Manikanta420m/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Manikanta420m/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Manikanta420m/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Manikanta420m/LEETCODE/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1040,6 +1041,7 @@ The goal of this repository is to:<br>
 | [1340-jump-game-v](https://github.com/Manikanta420m/LEETCODE/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manikanta420m/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Manikanta420m/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Manikanta420m/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manikanta420m/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Manikanta420m/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1288,6 +1290,7 @@ The goal of this repository is to:<br>
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manikanta420m/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Manikanta420m/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manikanta420m/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Manikanta420m/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/Manikanta420m/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1448,6 +1451,7 @@ The goal of this repository is to:<br>
 | [0611-valid-triangle-number](https://github.com/Manikanta420m/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Manikanta420m/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/Manikanta420m/LEETCODE/tree/master/0868-push-dominoes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Manikanta420m/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Manikanta420m/LEETCODE/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Manikanta420m/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
