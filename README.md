@@ -541,6 +541,7 @@ The goal of this repository is to:<br>
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Manikanta420m/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Manikanta420m/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3830-find-closest-person](https://github.com/Manikanta420m/LEETCODE/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Manikanta420m/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1570,6 +1571,7 @@ The goal of this repository is to:<br>
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Manikanta420m/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Manikanta420m/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Manikanta420m/LEETCODE/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
