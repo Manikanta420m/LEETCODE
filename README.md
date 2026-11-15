@@ -122,6 +122,7 @@ The goal of this repository is to:<br>
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manikanta420m/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Manikanta420m/LEETCODE/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Manikanta420m/LEETCODE/tree/master/1563-stone-game-v) |
@@ -454,6 +455,7 @@ The goal of this repository is to:<br>
 | [1500-count-largest-group](https://github.com/Manikanta420m/LEETCODE/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/Manikanta420m/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Manikanta420m/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Manikanta420m/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1563-stone-game-v](https://github.com/Manikanta420m/LEETCODE/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manikanta420m/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -861,6 +863,7 @@ The goal of this repository is to:<br>
 | [0560-subarray-sum-equals-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Manikanta420m/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manikanta420m/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Manikanta420m/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -964,6 +967,7 @@ The goal of this repository is to:<br>
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Manikanta420m/LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Manikanta420m/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manikanta420m/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Manikanta420m/LEETCODE/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manikanta420m/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Manikanta420m/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
