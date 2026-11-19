@@ -227,6 +227,7 @@ The goal of this repository is to:<br>
 | [2529-range-product-queries-of-powers](https://github.com/Manikanta420m/LEETCODE/tree/master/2529-range-product-queries-of-powers) |
 | [2540-minimum-common-value](https://github.com/Manikanta420m/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Manikanta420m/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Manikanta420m/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/Manikanta420m/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/Manikanta420m/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Manikanta420m/LEETCODE/tree/master/2615-sum-of-distances) |
@@ -1090,6 +1091,7 @@ The goal of this repository is to:<br>
 | [2463-minimum-total-distance-traveled](https://github.com/Manikanta420m/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Manikanta420m/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Manikanta420m/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2689-rearranging-fruits](https://github.com/Manikanta420m/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Manikanta420m/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Manikanta420m/LEETCODE/tree/master/2747-count-zero-request-servers) |
@@ -1551,6 +1553,7 @@ The goal of this repository is to:<br>
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Manikanta420m/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Manikanta420m/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Manikanta420m/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Manikanta420m/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/Manikanta420m/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manikanta420m/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
