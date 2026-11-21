@@ -289,6 +289,7 @@ The goal of this repository is to:<br>
 | [3312-sorted-gcd-pair-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Manikanta420m/LEETCODE/tree/master/3321-type-of-triangle) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Manikanta420m/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Manikanta420m/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/Manikanta420m/LEETCODE/tree/master/3379-transformed-array) |
@@ -780,6 +781,7 @@ The goal of this repository is to:<br>
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manikanta420m/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manikanta420m/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Manikanta420m/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manikanta420m/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Manikanta420m/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Manikanta420m/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1251,6 +1253,7 @@ The goal of this repository is to:<br>
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Manikanta420m/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Manikanta420m/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Manikanta420m/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Manikanta420m/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manikanta420m/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Manikanta420m/LEETCODE/tree/master/3396-valid-word) |
@@ -1830,6 +1833,7 @@ The goal of this repository is to:<br>
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Manikanta420m/LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manikanta420m/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Manikanta420m/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Manikanta420m/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Manikanta420m/LEETCODE/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1896,6 +1900,7 @@ The goal of this repository is to:<br>
 | [2685-count-the-number-of-complete-components](https://github.com/Manikanta420m/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manikanta420m/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3310-remove-methods-from-project](https://github.com/Manikanta420m/LEETCODE/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Manikanta420m/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Manikanta420m/LEETCODE/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
