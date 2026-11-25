@@ -407,6 +407,7 @@ The goal of this repository is to:<br>
 | [3903-smallest-stable-index-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3904-smallest-stable-index-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 | [3936-split-array-by-prime-indices](https://github.com/Manikanta420m/LEETCODE/tree/master/3936-split-array-by-prime-indices) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
@@ -833,6 +834,7 @@ The goal of this repository is to:<br>
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Manikanta420m/LEETCODE/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manikanta420m/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Manikanta420m/LEETCODE/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -1375,6 +1377,7 @@ The goal of this repository is to:<br>
 | [3790-fruits-into-baskets-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Manikanta420m/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Manikanta420m/LEETCODE/tree/master/3827-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2068,6 +2071,7 @@ The goal of this repository is to:<br>
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Manikanta420m/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Manikanta420m/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3934-smallest-unique-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Brainteaser
 |  |
 | ------- |
@@ -2162,6 +2166,7 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Manikanta420m/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -2269,4 +2274,8 @@ The goal of this repository is to:<br>
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manikanta420m/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
