@@ -410,6 +410,7 @@ The goal of this repository is to:<br>
 | [3934-smallest-unique-subarray](https://github.com/Manikanta420m/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 | [3936-split-array-by-prime-indices](https://github.com/Manikanta420m/LEETCODE/tree/master/3936-split-array-by-prime-indices) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Manikanta420m/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -1049,6 +1050,7 @@ The goal of this repository is to:<br>
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Manikanta420m/LEETCODE/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Manikanta420m/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Manikanta420m/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1610,6 +1612,7 @@ The goal of this repository is to:<br>
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Manikanta420m/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Manikanta420m/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Manikanta420m/LEETCODE/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Manikanta420m/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Manikanta420m/LEETCODE/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
